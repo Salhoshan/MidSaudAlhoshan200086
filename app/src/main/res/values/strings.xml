@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Saud Alhoshan-MidTerm-1-2022</string>
+    <string name="goMain">Go To Main Activity</string>
+    <string name="goAc2">Go To Activity 2</string>
+    <string name="goAc3">Go To Activity 3</string>
+    <string name="top1">Activity Screen 1</string>
+    <string name="top2">Activity Screen 2</string>
+    <string name="top3">Activity Screen 3</string>
+    <string-array name="array">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+
+    </string-array>
+</resources>
